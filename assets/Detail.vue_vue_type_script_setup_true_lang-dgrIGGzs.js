@@ -1,0 +1,1 @@
+import{D as a}from"./Descriptions-Oj5Dr6fw.js";import{l as t,m as r,W as c,u as o}from"./vue-chunks-Emfp7Yk5.js";const l=t({__name:"Detail",props:{currentRow:{type:Object,default:()=>{}},detailSchema:{type:Array,default:()=>[]}},setup(e){return(n,s)=>(r(),c(o(a),{schema:e.detailSchema,data:e.currentRow||{}},null,8,["schema","data"]))}});export{l as _};
